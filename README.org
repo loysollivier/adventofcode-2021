@@ -11,3 +11,6 @@ My simple solutions to [[https://adventofcode.com/2021][Advent of code 2021]].
   - [[day6/day6.py][Day 6]]
     - This one was fun. The first solution did not scale for part 2.
       Then the idea came up on how to do it more efficiently.
+  - [[day7/day7.py][Day 7]]
+    - Looks like I could be using a math formula (like barycenter ?) for it.
+      But the brute approach did work...
