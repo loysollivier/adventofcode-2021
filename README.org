@@ -8,3 +8,6 @@ My simple solutions to [[https://adventofcode.com/2021][Advent of code 2021]].
   - [[day3/day3.py][Day 3]]
   - [[day4/day4.py][Day 4]]
   - [[day5/day5.py][Day 5]]
+  - [[day6/day6.py][Day 6]]
+    - This one was fun. The first solution did not scale for part 2.
+      Then the idea came up on how to do it more efficiently.
